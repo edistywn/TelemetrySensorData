@@ -21,3 +21,5 @@ raspberry pi address. There are the following address and the environment where 
     3. b8:27:eb:bf:9d:51 ==> (stable conditions, warmer and dryer) 
 
 From this data I try to predict environment condition where sensor placed with features from sensor reading. I use machine learning algorithm to tackle this problem.
+
+Source : https://www.kaggle.com/garystafford/environmental-sensor-data-132k
